@@ -1,0 +1,17 @@
+
+
+.overview {
+    text-align: center;
+}
+.overview .icon {
+    font-size: 30px;
+    color: var(--light)
+}
+
+.overview .title {
+    font-weight: bold;
+    color: #fff
+}
+.overview .desc {
+    color: var(--gray);
+}

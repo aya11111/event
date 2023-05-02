@@ -1,0 +1,23 @@
+.speaker {
+    text-align: center;
+    text-transform: capitalize;
+}
+.speaker img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.speaker .name {
+    color: var(--light);
+    font-weight: bold;
+    margin-top: 20px
+}
+.speaker p {
+    color: var(--gray);
+    margin-top: -10px
+}
+@media (max-width: 500px) {
+    .swiper-slide{
+        margin-right: 10px !important;
+        width: 130px !important
+    }
+}
