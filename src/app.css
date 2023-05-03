@@ -88,6 +88,12 @@ nav.navbar .navbar-toggler svg {
     font-weight: bold;
     font-size: 25px
 }
+@media (max-width: 748px) {
+    .header .header-info .buttons .learn {
+        margin-right: 0;
+        margin-bottom: 20px
+    }
+}
 .header .header-info .buttons .register-but:hover{
     background-color: transparent;
     
